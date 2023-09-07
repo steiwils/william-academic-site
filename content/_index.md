@@ -37,7 +37,7 @@ sections:
           * Building analytical tools using R and Power BI
           * Communication with internal and external customers
           * Collaborating on cross-functional advanced analytical projects
-      location: California
+      location: Wisconsin
       title: Senior Data Analyst
     title: Experience
   design:
