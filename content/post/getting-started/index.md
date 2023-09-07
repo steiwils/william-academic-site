@@ -7,14 +7,14 @@ date: "2023-09-07T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: [**Pexels**](Photo by Vie Studio from Pexels: https://www.pexels.com/photo/hello-word-with-smiley-6168067/)'
+  caption: 'Image credit:[**Pexels**](https://www.pexels.com/photo/hello-word-with-smiley-6168067/)'
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2023-09-07T00:00:00Z"
 projects: []
-subtitle: "Welcome \U0001F44B this is my first post on my new site. Let me explain what I'm trying to do here."
-summary: "Welcome \U0001F44B this is my first post on my new site. Let me explain what I'm trying to do here.."
+subtitle: "Welcome \U0001F44B this is my first post on my new site. Let me explain what I'm trying to do here..."
+summary: "Welcome \U0001F44B this is my first post on my new site. Let me explain what I'm trying to do here..."
 tags:
 - Academic
 title: Hello World! The Start of Something New.
