@@ -1,0 +1,18 @@
+{
+  "name": "William Steinke",
+  "short_name": "William Steinke",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_huc3832e22759298952e4b80e8e682d2bc_76724_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_huc3832e22759298952e4b80e8e682d2bc_76724_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

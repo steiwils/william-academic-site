@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | William Steinke</title>
+    <link>https://example.com/tag/academic/</link>
+      <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_huc3832e22759298952e4b80e8e682d2bc_76724_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://example.com/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>Hello World! The Start of Something New.</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello world!&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;my-personal-website-plans&#34;&gt;My Personal Website Plans&lt;/h2&gt;
+&lt;p&gt;This is my first successful attemp at making a personal website. I&amp;rsquo;ve tried in the past, but was never able to quite get the aesthetic right. This will not be the final form of this website either, but I&amp;rsquo;m already at a much better place with its construction than I was in the past.&lt;/p&gt;
+&lt;p&gt;I hope to have this website be a bit of a digital resume, profile and portfolio, along with general blog about my thoughts and works in a professional or quasi-professional manner. You&amp;rsquo;ll probably see some things about courses I&amp;rsquo;m taking to continue developing in data science and artificial intelligence, but don&amp;rsquo;t be surprised to see something related to urbanism of &lt;a href=&#34;https://www.strongtowns.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Strong Towns&lt;/a&gt; related analysis.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Posts&lt;/strong&gt; section of this website is meant to be a little more relaxed, yet informative. Whatever deep learning projects I find interesting enough, I&amp;rsquo;ll include a post related to it here. But like I said, you might find posts related to other topics here too!&lt;/p&gt;
+&lt;h2 id=&#34;building-the-website&#34;&gt;Building the Website&lt;/h2&gt;
+&lt;p&gt;A quick note on the construction of this website. I&amp;rsquo;ll probalby include a more thourough explination on how I did this in a dedicated post, but for now let me give you the brief rundown.&lt;/p&gt;
+&lt;p&gt;I am using &lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt; in R and the &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; theme &lt;a href=&#34;https://github.com/wowchemy/starter-hugo-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; from &lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowcemy&lt;/a&gt;. I&amp;rsquo;ve built this website starting in 2023, and at the time there were some tutorials I found that referenced a &lt;code&gt;content/home/&lt;/code&gt; folder. When I followed the instructions seen &lt;a href=&#34;https://bookdown.org/yihui/blogdown/a-quick-example.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and in this &lt;a href=&#34;https://youtu.be/BHpkLJieXPE?si=jLyEVS93XuaZnynd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, I did not get this &lt;code&gt;content/home/&lt;/code&gt; folder. Instead, I got a lot of &lt;code&gt;_index.md&lt;/code&gt; files in the &lt;code&gt;content/&lt;/code&gt; folder. From what I can gather, these markdown files are the stand ins for the &lt;code&gt;content/home/&lt;/code&gt; organization that was seen previously. If you open one of these files, and run the &lt;code&gt;blogdown::serve_site()&lt;/code&gt; command, you should be able to start playing around with to contents of the markdown files, and see what they do to the starter site. This is a little less intuitive than my previous &lt;code&gt;blogdown&lt;/code&gt; experience where you interacted with &lt;code&gt;.Rmd&lt;/code&gt; files and then knitted them to reflect the changes or additions to your site, but with a little time and patience I (and hopefully you) was able to figure it out.&lt;/p&gt;
+&lt;p&gt;Any how, thanks for stopping by. I hope you find something interesting!&lt;/p&gt;
+&lt;p&gt;Peace,&lt;/p&gt;
+&lt;p&gt;William&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

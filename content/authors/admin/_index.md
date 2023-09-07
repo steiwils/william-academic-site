@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Exploring the intersection of people and data.
 education:
   courses:
   - course: MSc in Bioinformatics
