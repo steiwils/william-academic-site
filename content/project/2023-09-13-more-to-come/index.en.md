@@ -10,7 +10,7 @@ summary: ''
 authors: []
 external_link: ''
 image:
-  caption: ''
+  caption: '[Photo by JÉSHOOTS on Pexels](https://www.pexels.com/photo/fashion-hand-hurry-outfit-4956/)'
   focal_point: ''
   preview_only: no
 url_code: ''

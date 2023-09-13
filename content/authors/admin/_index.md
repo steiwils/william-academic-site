@@ -40,5 +40,5 @@ superuser: true
 title: William Steinke
 ---
 
-I am an enthusiastic data science practitioner coming from a biology background. My interests focus on computer vision deep learning methods, mainly focused around their application in biomedical imaging for cardiovascular disease. I also have a side passion of advocating for better built environments and using my data science skills to help advocate for more human centric design.
+I am an enthusiastic data science practitioner coming from a biology background. My interests focus on computer vision deep learning methods, mainly focused around their application in biomedical imaging for cardiovascular disease. My other professional interests are in data and AI ethics, and open source projects. Some of my personal interests are in urbanism, GIS, and cycling for transportation.
 {style="text-align: justify;"}
