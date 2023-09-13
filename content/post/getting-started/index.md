@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- Demo
+- Introduction
 date: "2023-09-07T00:00:00Z"
 draft: false
 featured: false

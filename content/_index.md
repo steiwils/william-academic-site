@@ -46,29 +46,21 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - certificate_url: https://www.coursera.org
+    - certificate_url: https://opencv.org/
       date_end: ""
-      date_start: "2021-01-25"
+      date_start: "2023-09-01"
       description: ""
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
+      organization: OpenCV
+      organization_url: https://opencv.org/
+      title: Mastering OpenCV with Python
       url: ""
-    - certificate_url: https://www.edx.org
+    - certificate_url: https://coursera.org/share/94ea713de84190ec3281441d276055b0
       date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
-      description: ""
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
+      date_start: "2020-09-21"
+      description: "Linear Algebra"
+      organization: Coursera
+      organization_url: https://coursera.org
+      title: Mathematics for Machine Learning 
       url: ""
     subtitle: null
     title: Accomplish&shy;ments
@@ -124,22 +116,16 @@ sections:
       postcode: 
       region: WI
       street: 
-    appointment_url: https://calendly.com
     autolink: true
     contact_links:
-    - icon: video
-      icon_pack: fas
-      link: https://zoom.com
-      name: Zoom Me
     directions: If you're in the Milwaukee area, invite me for a coffee or beer.
     email: william.s.steinke@gmail.com
     form:
       formspree:
         id: null
       netlify:
-        captcha: false
+        captcha: true
       provider: netlify
-    phone: +1(414) 313 0525
     subtitle: null
     text: If you would like to contact with me for collaborations or inquires, please fill out the section below.
     title: Contact
