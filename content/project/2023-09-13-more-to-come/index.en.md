@@ -23,6 +23,4 @@ slides: ''
 There will be more projects to come as I continue to get my website built. In the mean time, please explore other parts of my website or my socials.
 
 
-Best,
 
-William
