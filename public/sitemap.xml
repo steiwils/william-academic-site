@@ -10,6 +10,14 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/biomedical-image-segmentation/</loc>
+    <lastmod>2023-11-27T17:43:27-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2023-11-27T17:43:27-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/categories/</loc>
     <lastmod>2023-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -31,10 +39,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/getting-started/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

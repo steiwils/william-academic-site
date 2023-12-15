@@ -15,7 +15,9 @@ interests:
 - Artificial Intelligence
 - Biomedical Imaging
 - Computer Vision
+- Data Ethics
 - GIS
+- Open Source
 last_name: Steinke
 organizations:
 - name: 
@@ -40,5 +42,6 @@ superuser: true
 title: William Steinke
 ---
 
-I am an enthusiastic data science practitioner coming from a biology background. My interests focus on computer vision deep learning methods, mainly focused around their application in biomedical imaging for cardiovascular disease. My other professional interests are in data and AI ethics, and open source projects. Some of my personal interests are in urbanism, GIS, and cycling for transportation.
+My name is William Steinke and I am a data science and machine learning practitioner, with a background in microbiology. I find great joy in exploring ways to use data to improve people’s lives. My lived experiences and scientific curiosity lead me to explore deep learning for biomedical image analysis and data analysis to advocate for better urbanism. I have a Master’s degree from [Marquette University](https://www.marquette.edu/) and the [Medical College of Wisconsin](https://www.mcw.edu/) in Bioinformatics and a Bachelor's degree from [UW-Stevens Point](https://www.uwsp.edu/) in Biochemistry. While in my Master’s program, I worked at the Medical College of Wisconsin where we used NLP and computer vision techniques for brain tumor MRI images. I am a member of [Strong Towns](https://strongtowns.org/about) and involved in a [Local Conversation](https://www.strongtownsmetromke.org/). 
+
 {style="text-align: justify;"}

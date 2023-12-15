@@ -5,12 +5,20 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo.svg</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Biomedical Image Segmentation</title>
+      <link>https://example.com/post/biomedical-image-segmentation/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/biomedical-image-segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hello World! The Start of Something New.</title>
